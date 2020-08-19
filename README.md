@@ -1,4 +1,4 @@
-In the attachment, you have a CSV file with a data set of real estate listings including details about location and the primary attributes of the property. 
+In the attachment, there is a CSV file with a data set of real estate listings including details about location and the primary attributes of the property. 
 For convenience purposes, the location is provided in 2 formats - latitude/longitude and lambert X/Y coordinates.
 
 ## Objective
